@@ -1,7 +1,12 @@
 
 # My Data Analysis Portfolio
 
+
 Welcome to my portfolio showcasing static dashboards created using Power BI.
+
+![Dashboard Preview](report1.jpg)
+
+[View Full Dashboard](dashboard1.pdf)
 
 ## **Projects on UN SDG Goal 6: Clean Water and Sanitation**
 
@@ -25,3 +30,7 @@ During my time in the **ALX Data Science Program**, I worked on multiple project
 - **Key Outcomes**:
   - Developed dashboards to visualize water resource availability, enabling decision-makers to allocate resources effectively.
   - Ensured projects adhered to timelines and goals, improving the overall impact on underserved communities.
+
+![Dashboard Preview](report2.jpg)
+
+[View Full Dashboard](dashboard2.pdf)

@@ -6,7 +6,7 @@ Welcome to my portfolio showcasing static dashboards created using Power BI.
 
 ![Dashboard Preview](report1.jpg)
 
-[View Full Dashboard](dashboard1.pdf)
+[View Full Dashboard](https://github.com/rukayat-adedeji/powerbi-dashboards/blob/a37a2dd4353b4fa6353018d87d96a80c09ece28a/dashboard1.pdf)
 
 ## **Projects on UN SDG Goal 6: Clean Water and Sanitation**
 
